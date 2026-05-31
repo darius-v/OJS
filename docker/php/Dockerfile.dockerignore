@@ -1,0 +1,16 @@
+.git
+.github
+.husky
+
+node_modules
+vendor
+lib/pkp/vendor
+
+.env
+.env.*
+
+.DS_Store
+
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
